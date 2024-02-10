@@ -2,6 +2,7 @@
   "name": "omnifood",
   "private": true,
   "version": "0.0.0",
+  "author": "Jeremie Nodzo",
   "type": "module",
   "scripts": {
     "dev": "vite",
